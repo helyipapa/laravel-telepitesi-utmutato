@@ -115,21 +115,5 @@ Ez elindítja a frontend build folyamatot, és élőben frissíti a fájlokat.
 
 ##  6. Kész!
 
-Most már készen állsz a fejlesztésre.  
-A Laravel fut, a böngészőben elérhető, és készen áll arra, hogy saját alkalmazásodat építsd vele.  
+Most már készen állsz a fejlesztésre.
 
----
-
-### Hasznos parancsok
-
-| Parancs | Leírás |
-|----------|--------|
-| `php artisan serve` | Laravel szerver indítása |
-| `php artisan migrate` | Adatbázis migráció futtatása |
-| `php artisan make:model ModelName -m` | Új model + migráció létrehozása |
-| `npm run dev` | Frontend fejlesztői build indítása |
-
----
-
-**Készen is van!**  
-Ha ezt `README.md` néven elmented a projekted gyökerébe, GitHubon és VS Code-ban szépen formázva fog megjelenni.
